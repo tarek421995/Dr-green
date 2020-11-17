@@ -30,6 +30,11 @@ class NavBar extends Component {
           >
             <ul class="nav navbar-nav navbar-right">
               <li>
+                <a href="/chat" class="page-scroll">
+                  chatting
+                </a>
+              </li>
+              <li>
                 <a href="#about" class="page-scroll">
                   About
                 </a>

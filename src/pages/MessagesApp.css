@@ -1,0 +1,8 @@
+.Apps {
+  position: relative;
+  background: rgba (0, 0, 0, 0.7);
+  z-index: 56;
+  width: 100%;
+  height: 75%;
+  margin-top: 75px;
+}
